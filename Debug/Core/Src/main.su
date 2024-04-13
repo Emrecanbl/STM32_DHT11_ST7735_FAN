@@ -1,0 +1,14 @@
+../Core/Src/main.c:84:5:main	8	static
+../Core/Src/main.c:134:6:SystemClock_Config	112	static
+../Core/Src/main.c:176:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:216:13:MX_TIM1_Init	96	static
+../Core/Src/main.c:291:13:MX_TIM6_Init	16	static
+../Core/Src/main.c:329:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:364:13:MX_GPIO_Init	56	static
+../Core/Src/main.c:423:6:LCD_Init	24	static
+../Core/Src/main.c:430:6:LCD_Control_Temp	48	static
+../Core/Src/main.c:435:6:LCD_Control_Hum	48	static
+../Core/Src/main.c:440:6:LCD_Control_Fan	48	static
+../Core/Src/main.c:446:6:PWM_Control	24	static
+../Core/Src/main.c:459:6:LCD_Value_update	48	static
+../Core/Src/main.c:486:6:Error_Handler	8	static,ignoring_inline_asm
